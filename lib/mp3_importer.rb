@@ -7,8 +7,4 @@ class Mp3importer
   @path = path
   @@all << self 
 end 
-def save
-  
-  @@all
-end 
 end
